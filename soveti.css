@@ -1,0 +1,193 @@
+.small-caps {
+    font-variant: small-caps;
+  }
+body{
+    display:block;
+    float: center;
+    background-color: #F1F7FF;
+    width: 1442px;
+    margin-left: 150px;
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+#header{
+    display: block;
+    height: 87px;
+    float: center;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+#block{
+    width: 1442px;
+    height: 87px;
+    background-color: white;
+    opacity: 0.8;
+    z-index:1;
+    position: absolute;
+}
+#header ul{
+    z-index:2;
+    position: absolute;
+}
+#header li{
+    display: inline;
+}
+#header a{
+
+    text-decoration: none;
+    font-size: 1.7rem;
+}
+
+#header a:link{
+    color:#143B6F ;
+}
+#header a:visited{
+    color:#143B6F ;
+}
+#header a:hover{
+    color:	#235aa3 ;
+}
+
+#logo{
+    width: 280px;
+    float: left; 
+}
+
+
+
+
+#nazv {
+    margin-left: 250px;
+    float: left; 
+    padding-top: 15px;
+}
+
+.nazv0{
+    margin-right: 40px;
+}
+
+
+
+.navbar{
+    float: right;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+#imya3{
+    width: 1442px;
+    margin-top: 200px;
+    color:#143B6F ;
+    font-size: 3rem;
+    z-index: 2;
+    position: absolute;
+    margin-left: 120px;
+    
+}
+
+
+#soveti1{
+    width: 1200px;
+    height: 594px;
+    margin-top: 300px;
+    margin-left: 120px;
+    background-image: url("image/совет1.png");
+}
+#soveti2{
+    width: 1200px;
+    height: 594px;
+    margin-top: 70px;
+    margin-left: 120px;
+    background-image: url("image/совет2.png");
+}
+#soveti3{
+    width: 1200px;
+    height: 594px;
+    margin-top: 70px;
+    margin-left: 120px;
+    background-image: url("image/совет3.png");
+}
+
+.sov_zagolovok{
+    width: 477px;
+    font-size: 30px;
+    color:#111928;
+    padding-top: 75px;
+    margin-left: 70px;
+}
+.sov_text{
+    width: 502px;
+    font-size: 18px;
+    color:#111928;
+    padding-top: 25px;
+    margin-left: 70px;
+}
+.sov_bottom{
+    width: 120px;
+    height: 50px;
+    font-size: 20px;
+    color:white;
+    background-color: #143B6F;
+    margin-top: 55px;
+    margin-left: 70px;
+    padding-top: 7px;
+    padding-left: 18px;
+    border-radius: 6px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#podval{
+    margin-top: 150px;
+    z-index: 2;
+    position: absolute;
+
+    background-color: #50739F;
+    width: 1442px;
+    height: 200px;
+}
+
+#tel{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-left: 43px;
+    float:left;
+}
+
+#seti{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-right: 43px;
+    float:right;
+}
+#seti img{
+    width: 37px;
+    margin-right: 10px;
+}
+
+#politika{
+    color: black;
+    font-size: 1rem;
+    float:left;
+    clear: both;
+    margin-top: 40px; 
+    margin-left: 43px;  
+}

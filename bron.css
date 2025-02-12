@@ -1,0 +1,253 @@
+.small-caps {
+    font-variant: small-caps;
+  }
+body{
+    display:block;
+    float: center;
+    background-color: #F1F7FF;
+    width: 1442px;
+    margin-left: 150px;
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+#header{
+    display: block;   
+    height: 87px;
+    float: center;
+    padding-top: 5px;
+}
+#block1{
+    width: 1442px;
+    height: 87px;
+    background-color: white;
+    z-index:2;
+    position: absolute;
+}
+#header ul{
+    z-index:2;
+    position: absolute;
+}
+#header li{
+    display: inline;
+}
+#header a{
+
+    text-decoration: none;
+    font-size: 1.7rem;
+}
+
+#header a:link{
+    color:#143B6F ;
+}
+#header a:visited{
+    color:#143B6F ;
+}
+#header a:hover{
+    color:	#235aa3 ;
+}
+
+#logo{
+    width: 280px;
+    float: left; 
+}
+
+
+
+
+
+#nazv {
+    margin-left: 250px;
+    float: left; 
+    padding-top: 15px;
+}
+
+.nazv0{
+    margin-right: 40px;
+}
+
+
+
+.navbar{
+    float: right;
+    margin-right: 40px;
+}
+
+
+
+
+
+
+
+
+
+#fon{
+    margin-top: 87px;
+    width: 1442px;
+    z-index:1;
+    position: absolute;
+}
+
+#inform_bron{
+    width: 915px;
+    height: 331px;
+    z-index:2;
+    position: absolute;
+    margin-top: 150px;
+    margin-left: 262px;
+}
+
+#block2{
+    width: 100%;
+    height: 100%;
+    background-color: white;
+    opacity: 0.7;
+    z-index:2;
+    position: absolute;
+}
+
+#text1{
+    margin-left: 40px;
+    width: 844px;
+    z-index:3;
+    position: absolute;
+}
+
+#h1{
+    margin-top: 20px;
+    font-size: 32px;
+    color: #363D4E;
+    opacity:none;
+}
+
+#h2{
+    margin-top: 32px;
+    font-size: 20px;
+    color: #363D4E;
+}
+
+#h3{
+    margin-top: 50px;
+    font-size: 24px;
+    color: #363D4E;
+}
+
+#data_tur{
+    width: 915px;
+    height: 277px;
+    z-index:2;
+    position: absolute;
+    background-color: white;
+    box-shadow: 4px 4px 30px 5px rgb(177, 174, 174, 0.7);
+    margin-top: 484px;
+    margin-left: 262px;
+}
+
+.osnov_metki{
+    margin-top: 20px;
+    margin-left:30px;
+    font-size: 20px;
+    color: #363D4E;
+    line-height: 60px;
+    float: left;
+}
+
+#izmen_metki{
+    margin-top: 20px;
+    margin-right:106px;
+    font-size: 20px;
+    color: #363D4E;
+    line-height: 60px;
+    float: right;
+}
+
+#infon_klient{
+    width: 915px;
+    height: 288px;
+    z-index:2;
+    position: absolute;
+    background-color: white;
+    box-shadow: 4px 4px 30px 5px rgba(177, 174, 174, 0.7);
+    margin-top: 770px;
+    margin-left: 262px;
+}
+
+.forma0{
+    height: 40px;
+    width: 294px;
+}
+
+#vvod{
+    margin-top: 20px;
+    margin-right:280px;
+    font-size: 20px;
+    color: #363D4E;
+    line-height: 60px;
+    float: right;
+}
+
+#add_tyr{
+    background-color: #143B6F;
+    color: white;
+    margin-top: 220px;
+    height: 58px;
+    width: 197px;
+    font-size: 20px;
+    border: none;
+}
+
+#oformit{
+    background-color: #143B6F;
+    color: white;
+    margin-top: 1180px;
+    height: 58px;
+    width: 915px;
+    font-size: 20px;
+    border: none;
+    text-align: center;
+    margin-left: 262px;
+}
+
+
+
+
+
+
+
+#podval{
+    margin-top: 200px;
+    z-index: 2;
+    position: absolute;
+
+    background-color: #50739F;
+    width: 1442px;
+    height: 200px;
+}
+
+#tel{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-left: 43px;
+    float:left;
+}
+
+#seti{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-right: 43px;
+    float:right;
+}
+#seti img{
+    width: 37px;
+    margin-right: 10px;
+}
+
+#politika{
+    color: black;
+    font-size: 1rem;
+    float:left;
+    clear: both;
+    margin-top: 40px; 
+    margin-left: 43px;  
+}

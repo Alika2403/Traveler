@@ -1,0 +1,212 @@
+.small-caps {
+    font-variant: small-caps;
+  }
+body{
+    display:block;
+    float: center;
+    background-color: #F1F7FF;
+    width: 1442px;
+    margin-left: 150px;
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+#header{
+    display: block;
+    height: 87px;
+    float: center;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+#block{
+    width: 1442px;
+    height: 87px;
+    background-color: white;
+    opacity: 0.8;
+    z-index:1;
+    position: absolute;
+}
+#header ul{
+    z-index:2;
+    position: absolute;
+}
+#header li{
+    display: inline;
+}
+#header a{
+
+    text-decoration: none;
+    font-size: 1.7rem;
+}
+
+#header a:link{
+    color:#143B6F ;
+}
+#header a:visited{
+    color:#143B6F ;
+}
+#header a:hover{
+    color:	#235aa3 ;
+}
+
+#logo{
+    width: 280px;
+    float: left; 
+}
+
+
+
+
+#nazv {
+    margin-left: 250px;
+    float: left; 
+    padding-top: 15px;
+}
+
+.nazv0{
+    margin-right: 40px;
+}
+
+
+
+.navbar{
+    float: right;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+#imya3{
+    width: 1442px;
+    margin-top: 200px;
+    color:#143B6F ;
+    font-size: 3rem;
+    z-index: 2;
+    position: absolute;
+
+    text-align: center;
+}
+
+
+#otziv1{
+    width: 1200px;
+    height: 174px;
+    margin-top: 300px;
+    margin-left: 120px;
+    background-image: url("image/отзыв1.png");
+}
+#otziv2{
+    width: 1200px;
+    height: 174px;
+    margin-top: 50px;
+    margin-left: 120px;
+    background-image: url("image/отзыв2.png");
+}
+#otziv3{
+    width: 1200px;
+    height: 174px;
+    margin-top: 50px;
+    margin-left: 120px;
+    background-image: url("image/отзыв3.png");
+}
+#otziv4{
+    width: 1200px;
+    height: 174px;
+    margin-top: 50px;
+    margin-left: 120px;
+    background-image: url("image/отзыв4.png");
+}
+
+.otzv_zagolovok{
+    font-size: 20px;
+    color:white;
+    padding-top: 30px;
+    margin-left: 180px;
+}
+.otzv_text{
+    width: 986px;
+    font-size: 16px;
+    color: white;
+    padding-top: 10px;
+    margin-left: 180px;
+}
+
+
+#form_otz{
+    margin-left: 120px;
+    margin-top: 104px;
+}
+
+textarea{
+    font-size: 24px;
+}
+
+#star{
+    float: left;
+    margin-top: 10px;
+    width: 200px;
+    height: 40px;
+}
+
+#button{
+    float: right;
+    margin-right: 120px;
+    margin-top: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    width: 189px;
+    height: 62px;
+    color: white;
+    background-color: #143B6F;
+    border-radius: 6px;
+    font-size: 24px;
+}
+
+
+
+
+
+
+
+
+
+#podval{
+    margin-top: 300px;
+    z-index: 2;
+    position: absolute;
+
+    background-color: #50739F;
+    width: 1442px;
+    height: 200px;
+}
+
+#tel{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-left: 43px;
+    float:left;
+}
+
+#seti{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-right: 43px;
+    float:right;
+}
+#seti img{
+    width: 37px;
+    margin-right: 10px;
+}
+
+#politika{
+    color: black;
+    font-size: 1rem;
+    float:left;
+    clear: both;
+    margin-top: 40px; 
+    margin-left: 43px;  
+}

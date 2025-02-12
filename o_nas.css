@@ -1,0 +1,168 @@
+.small-caps {
+    font-variant: small-caps;
+  }
+body{
+    display:block;
+    float: center;
+    background-color: #F1F7FF;
+    width: 1442px;
+    margin-left: 150px;
+    font-family: 'Arial', 'Verdana', sans-serif;
+}
+
+#header{
+    display: block;
+    height: 87px;
+    float: center;
+    padding-top: 5px;
+    margin-left: 10px;
+}
+#block{
+    width: 1442px;
+    height: 87px;
+    background-color: white;
+    opacity: 0.8;
+    z-index:1;
+    position: absolute;
+}
+#header ul{
+    z-index:2;
+    position: absolute;
+}
+#header li{
+    display: inline;
+}
+#header a{
+
+    text-decoration: none;
+    font-size: 1.7rem;
+}
+
+#header a:link{
+    color:#143B6F ;
+}
+#header a:visited{
+    color:#143B6F ;
+}
+#header a:hover{
+    color:	#235aa3 ;
+}
+
+#logo{
+    width: 280px;
+    float: left; 
+}
+
+
+
+
+
+
+
+
+#nazv {
+    margin-left: 250px;
+    float: left; 
+    padding-top: 15px;
+}
+
+.nazv0{
+    margin-right: 40px;
+}
+
+
+
+.navbar{
+    float: right;
+    margin-right: 20px;
+}
+
+
+
+
+
+
+#we{
+    margin-top: 250px;
+    margin-left: 103px;
+}
+
+#block1{
+    width: 1234px;
+    height: 367px;
+
+}
+
+#text1{
+    width: 617px;
+    height: 167px;
+    font-size: 20px;
+    padding-top: 60px;
+    color: #363D4E;
+}
+
+#image1{
+    padding-left: 20px;
+}
+
+
+
+#block2{
+    width: 1234px;
+    height: 367px;
+    margin-top: 167px;
+}
+
+#text2{
+    width: 685px;
+    font-size: 20px;
+    padding-top: 40px;
+    padding-left: 30px;
+    color: #363D4E;
+}
+
+
+
+
+
+
+
+
+#podval{
+    margin-top: 250px;
+    z-index: 2;
+    position: absolute;
+
+    background-color: #50739F;
+    width: 1442px;
+    height: 200px;
+}
+
+#tel{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-left: 43px;
+    float:left;
+}
+
+#seti{
+    color:white ;
+    font-size: 1.2rem;
+    margin-top: 43px;
+    margin-right: 43px;
+    float:right;
+}
+#seti img{
+    width: 37px;
+    margin-right: 10px;
+}
+
+#politika{
+    color: black;
+    font-size: 1rem;
+    float:left;
+    clear: both;
+    margin-top: 40px; 
+    margin-left: 43px;  
+}
